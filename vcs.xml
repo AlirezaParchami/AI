@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/parham-k/UIAI17_TeamManager.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://alirezaprm76@gitlab.com/mahdi.salmanzadeh.najafi/UIAI2017_TeamManager_Server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\KINGMAX\Desktop\University Courses\AI challenge\UI AI 2017" />
